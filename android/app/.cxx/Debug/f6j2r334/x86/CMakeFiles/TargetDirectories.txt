@@ -1,0 +1,2 @@
+E:/flutter/sql_lite/android/app/.cxx/Debug/f6j2r334/x86/CMakeFiles/edit_cache.dir
+E:/flutter/sql_lite/android/app/.cxx/Debug/f6j2r334/x86/CMakeFiles/rebuild_cache.dir
