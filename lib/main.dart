@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:sql_lite/db_handler.dart';
 import 'home.dart';
 
 void main(){
@@ -7,6 +8,7 @@ void main(){
 }
 
 class MyApp extends StatelessWidget {
+
   const MyApp({super.key});
 
   @override
